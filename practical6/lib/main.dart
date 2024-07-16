@@ -18,13 +18,13 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
-      // home: Assignment1(),
+      home: Assignment1(),
       // home: Assignment2(),
       // home: Assignment3(),
       // home: Assignment4(),
       // home: Assignment5()
         // home: Assignment6(),
-        home: Assignment7()
+        // home: Assignment7()
     );
   }
 }

@@ -18,7 +18,6 @@ class Assignment1 extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          
             width: 300,
             height: 300,
             decoration: BoxDecoration(
