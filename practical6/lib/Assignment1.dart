@@ -8,7 +8,7 @@ class Assignment1 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.red,
-        // centerTitle: true,
+       
           title: Text("Container image",
             style: TextStyle(
               color: Color.fromARGB(255, 21, 20, 20),
